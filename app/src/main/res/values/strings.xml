@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mehmet_can_gunduz_hw7</string>
+    <string name="add">Not Ekle</string>
+    <string name="save">Kaydet</string>
+    <string name="update">Güncelle</string>
+    <string name="date">Tarih</string>
+    <string name="delete">Sil</string>
+</resources>
