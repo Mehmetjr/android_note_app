@@ -2,7 +2,6 @@
 
 <p>
 Sqlite kullanarak yaptığım not uygulaması. Notların listelendiği,eklendiği ve detaylarının gösterildiği sayfalardan oluşmaktadır. 
-# Uygulama Özellikleri
 
 </p>
 
